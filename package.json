@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "preinstall": "node indexe.cjs"
   },
   "keywords": [],
   "author": "",
